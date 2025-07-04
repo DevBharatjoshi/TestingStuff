@@ -1,7 +1,7 @@
 # TestingStuff
 Testing some stuff
-Commit 2 line
-Commit 3 line
-Commit 4 line
-Commit 5 line
-Commit 6 line
+Frontend: React / Vue / HTML-CSS-JS
+
+Backend: Node.js / Python / PHP
+
+Database: MongoDB / MySQL / PostgreSQL
